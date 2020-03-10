@@ -1,4 +1,4 @@
-file = open('/users/bscdsa2022/mc64/Downloads/hash/e_so_many_books.txt', 'r')
+file = open('input_files/e_so_many_books.txt', 'r')
 
 line = file.readline()
 
